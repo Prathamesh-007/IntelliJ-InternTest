@@ -63,6 +63,9 @@ public class Main {
 //        }
 //
 //    }
+    public void pushChangesTrial() {
+        System.out.println("Hello World");
+    }
 
     public static void test2() throws SQLException {
         customerOperations c = new customerOperations();
